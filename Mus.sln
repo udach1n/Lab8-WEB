@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mus", "Mus.csproj", "{DEEF1062-0029-4E36-B6DC-9499561BB493}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEEF1062-0029-4E36-B6DC-9499561BB493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEEF1062-0029-4E36-B6DC-9499561BB493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEEF1062-0029-4E36-B6DC-9499561BB493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEEF1062-0029-4E36-B6DC-9499561BB493}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9C5188A-3FC5-4220-9493-F96CD4001F75}
+	EndGlobalSection
+EndGlobal
